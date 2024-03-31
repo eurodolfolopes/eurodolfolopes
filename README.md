@@ -18,10 +18,4 @@
     </a>
 
     
-</div><br>
 
-<div align="center">
-
-<img src="https://static.boredpanda.com/blog/wp-content/uploads/2020/12/Hey-Pandas-Post-The-Most-Satisfying-GIF-You-Know-5fe5caedbac11__605.gif" width="400" height="100">
-  
-</div>
